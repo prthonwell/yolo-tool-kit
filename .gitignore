@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model weights & archives (do not commit)
+*.pt
+*.zip
+*.rar
